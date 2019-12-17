@@ -1,86 +1,86 @@
 {
-  "photos": [
-    {
-      "id": 1,
-      "title": "Summit Sibiu",
-      "url": "https://i.ibb.co/yXfcbMM/DSC-0932.jpg",
-      "large_image_url": "https://i.ibb.co/G0x4b11/DSC-0932.jpg",
-      "description": "The Informal Summit of Heads of State or Government of the European Union took place on May 9, in the Romanian city of Sibiu. This was the first summit of this magnitude ever hosted by Romania since it became a member of the European Union in January 2007."
-    },
-    {
-      "id": 2,
-      "title": "Sunrise at Black Sea",
-      "url": "https://i.ibb.co/bRSm6VM/mare.jpg",
-      "large_image_url": "https://i.ibb.co/pKZs078/mare2.jpg",
-      "description": "One day in my vacantion at Black Sea i said 'tomorrow i will shoot that picture of sea'. Next morning i got up from bed, veeeeeeeeerrry hard, and I runned to get this picture because i was late for sunrise."
-    },
-    {
-      "id": 3,
-      "title": "Perfection of nature",
-      "url": "https://i.ibb.co/h1zxkvJ/natura.jpg",
-      "large_image_url": "https://i.ibb.co/0qZcN5t/natura1.jpg",
-      "description": "Sometimes we run for a 'perfect photo' and we try to get 'that great shot' but we forget to watch right at were we are now. In this photo i got a wood full of moss and some insects when i was at a little photo sesion."
-    },
-    {
-      "id": 4,
-      "title": "Spark",
-      "url": "https://i.ibb.co/FJK8kLv/DSC-0106.jpg",
-      "large_image_url": "https://i.ibb.co/S0PVD4T/DSC-0106.jpg",
-      "description": "In winter, when everything is cold we need a little sparkle to light our souls. In Sighisoara, when everything was covered in snow and darkness I decided to ignite a spark."
-    },
-    {
-      "id": 5,
-      "title": "Gray portrait",
-      "url": "https://i.ibb.co/7Xbfzq9/RoxGray.jpg",
-      "large_image_url": "https://i.ibb.co/5n1NbB2/9.jpg",
-      "description": "The color gray is an emotionless, moody color that is typically associate with menings of dirty, formal, conservative and sophisticated. But in this photo I captured a start of a smile and cildish emotions."
-    },
-    {
-      "id": 6,
-      "title": "A bit of light",
-      "url": "https://i.ibb.co/ZcqwTZf/lights.jpg",
-      "large_image_url": "https://i.ibb.co/jkqh7gm/DSC-0995.jpg",
-      "description": "Maybe you have to know the darkness before you can appreciate the light. ~Madeline L'Engle "
-    },
-    {
-      "id": 7,
-      "title": "Inside thoughts",
-      "url": "https://i.ibb.co/rGY5Prs/mind640x480.jpg",
-      "large_image_url": "https://i.ibb.co/tbqvL50/DSC-0654.jpg",
-      "description": "This photo was more like a little experiment for me because it was the first time i tried to edit with this effects. I guess it got a good look and i'm proud of making this at first try."
-    },
-    {
-      "id": 8,
-      "title": "Explosive colors",
-      "url": "https://i.ibb.co/Pmcb7x3/colors.jpg",
-      "large_image_url": "https://i.ibb.co/pXcrWrH/DSC-0746.jpg",
-      "description": "This is the kind of shooting session where you get your hands dirty...with a rainbow. “Be uniquely you. Stand out. Shine. Be colorful. The world needs your prismatic soul!” ~Amy Leigh Mercree"
-    },
-    {
-      "id": 9,
-      "title": "Sparcles in wheels",
-      "url": "https://i.ibb.co/pRGnGMV/round-sparkle.jpg",
-      "large_image_url": "https://i.ibb.co/F42rxSM/DSC-0776s.jpg",
-      "description": "One of my favourite shooting sesion was when i got to do this photo. One night me and one other friend decided to go out for a night shooting session and he camed with a 'magic tool' to bring photos to life. It was a great experience."
-    },
-    {
-      "id": 10,
-      "title": "Curious bird",
-      "url": "https://i.ibb.co/nP6Hn15/pigeon.jpg",
-      "large_image_url": "https://i.ibb.co/sy3tjrG/DSC-0827.jpg",
-      "description": "Somewhere in Sibiu on stairs was someone who feeds the pigeons, in that moment I decided to run there and get a photo of one of them. With a long distance lens I got this shot."
-    }
-  ],
-  "videos": [
-    {
-      "id": 1,
-      "title": "Jason Paul - Germany",
-      "poster": "https://cdn.shopify.com/s/files/1/1104/2314/files/Jason_Paul_Parkour_Freerunning_Bangkok_Thailand_Bio_Interview_Team_Farang_Clothing_2.jpg",
-      "stream": {
-        "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
-        "format": "hls"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    }
-  ]
+    "photos": [
+        {
+            "id": 1,
+            "title": "Summit Sibiu",
+            "url": "https://i.ibb.co/yXfcbMM/DSC-0932.jpg",
+            "large_image_url": "https://i.ibb.co/G0x4b11/DSC-0932.jpg",
+            "description": "The Informal Summit of Heads of State or Government of the European Union took place on May 9, in the Romanian city of Sibiu. This was the first summit of this magnitude ever hosted by Romania since it became a member of the European Union in January 2007."
+        },
+        {
+            "id": 2,
+            "title": "Sunrise at Black Sea",
+            "url": "https://i.ibb.co/bRSm6VM/mare.jpg",
+            "large_image_url": "https://i.ibb.co/pKZs078/mare2.jpg",
+            "description": "One day in my vacantion at Black Sea i said 'tomorrow i will shoot that picture of sea'. Next morning i got up from bed, veeeeeeeeerrry hard, and I runned to get this picture because i was late for sunrise."
+        },
+        {
+            "id": 3,
+            "title": "Perfection of nature",
+            "url": "https://i.ibb.co/h1zxkvJ/natura.jpg",
+            "large_image_url": "https://i.ibb.co/0qZcN5t/natura1.jpg",
+            "description": "Sometimes we run for a 'perfect photo' and we try to get 'that great shot' but we forget to watch right at were we are now. In this photo i got a wood full of moss and some insects when i was at a little photo sesion."
+        },
+        {
+            "id": 4,
+            "title": "Spark",
+            "url": "https://i.ibb.co/FJK8kLv/DSC-0106.jpg",
+            "large_image_url": "https://i.ibb.co/S0PVD4T/DSC-0106.jpg",
+            "description": "In winter, when everything is cold we need a little sparkle to light our souls. In Sighisoara, when everything was covered in snow and darkness I decided to ignite a spark."
+        },
+        {
+            "id": 5,
+            "title": "Gray portrait",
+            "url": "https://i.ibb.co/7Xbfzq9/RoxGray.jpg",
+            "large_image_url": "https://i.ibb.co/5n1NbB2/9.jpg",
+            "description": "The color gray is an emotionless, moody color that is typically associate with menings of dirty, formal, conservative and sophisticated. But in this photo I captured a start of a smile and cildish emotions."
+        },
+        {
+            "id": 6,
+            "title": "A bit of light",
+            "url": "https://i.ibb.co/ZcqwTZf/lights.jpg",
+            "large_image_url": "https://i.ibb.co/jkqh7gm/DSC-0995.jpg",
+            "description": "Maybe you have to know the darkness before you can appreciate the light. ~Madeline L'Engle "
+        },
+        {
+            "id": 7,
+            "title": "Inside thoughts",
+            "url": "https://i.ibb.co/rGY5Prs/mind640x480.jpg",
+            "large_image_url": "https://i.ibb.co/tbqvL50/DSC-0654.jpg",
+            "description": "This photo was more like a little experiment for me because it was the first time i tried to edit with this effects. I guess it got a good look and i'm proud of making this at first try."
+        },
+        {
+            "id": 8,
+            "title": "Explosive colors",
+            "url": "https://i.ibb.co/Pmcb7x3/colors.jpg",
+            "large_image_url": "https://i.ibb.co/pXcrWrH/DSC-0746.jpg",
+            "description": "This is the kind of shooting session where you get your hands dirty...with a rainbow. “Be uniquely you. Stand out. Shine. Be colorful. The world needs your prismatic soul!” ~Amy Leigh Mercree"
+        },
+        {
+            "id": 9,
+            "title": "Sparcles in wheels",
+            "url": "https://i.ibb.co/pRGnGMV/round-sparkle.jpg",
+            "large_image_url": "https://i.ibb.co/F42rxSM/DSC-0776s.jpg",
+            "description": "One of my favourite shooting sesion was when i got to do this photo. One night me and one other friend decided to go out for a night shooting session and he camed with a 'magic tool' to bring photos to life. It was a great experience."
+        },
+        {
+            "id": 10,
+            "title": "Curious bird",
+            "url": "https://i.ibb.co/nP6Hn15/pigeon.jpg",
+            "large_image_url": "https://i.ibb.co/sy3tjrG/DSC-0827.jpg",
+            "description": "Somewhere in Sibiu on stairs was someone who feeds the pigeons, in that moment I decided to run there and get a photo of one of them. With a long distance lens I got this shot."
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "title": "Jason Paul - Germany",
+            "poster": "https://cdn.shopify.com/s/files/1/1104/2314/files/Jason_Paul_Parkour_Freerunning_Bangkok_Thailand_Bio_Interview_Team_Farang_Clothing_2.jpg",
+            "stream": {
+                "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+                "format": "hls"
+            },
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ]
 }
