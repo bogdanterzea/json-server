@@ -74,10 +74,10 @@
     "videos": [
         {
             "id": 1,
-            "title": "Jason Paul - Germany",
-            "poster": "https://cdn.shopify.com/s/files/1/1104/2314/files/Jason_Paul_Parkour_Freerunning_Bangkok_Thailand_Bio_Interview_Team_Farang_Clothing_2.jpg",
+            "title": "Big Buck Bunny",
+            "poster": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
             "stream": {
-                "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+                "url": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
                 "format": "hls"
             },
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
